@@ -1,5 +1,5 @@
 # Beetlejuice-theme-for-AO3
-First time making a CSS template for Archive of Our Own, be gentle (? I used the AO3 Reversi theme as a base
+First time making a CSS skin for Archive of Our Own, be gentle (? I used the AO3 Reversi theme as a base
 
 🪲HOW TO USE IT🪲
 
