@@ -1,5 +1,5 @@
 # Beetlejuice-theme-for-AO3
-First attempt at making a CSS template for AO3, be gentle (? I may modify stuff later
+First time making a CSS template for Archive of Our Own, be gentle (? I used the AO3 Reversi theme as a base
 
 🪲HOW TO USE IT🪲
 
